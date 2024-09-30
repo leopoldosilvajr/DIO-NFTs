@@ -13,13 +13,15 @@ Utilizado plataforma da opensea e da Uptick para criação de NFTs para o curso 
 
 - MetaMask: Carteira de Criptomoedas para navegadores Web e celulares
 
-## Comprovação do desafio
+## Resultado do desafio - parte 1
 
 Parte 1 - Utilizado a OpenSea na versão testnet para criar um NFT, a mintagem foi paga com faucet ETH da rede Sepolia.
 
 ![Opensea](https://github.com/leopoldosilvajr/DIO-NFTs/blob/main/images/6%20Ok%20da%20opensea.png)
 
 OBS 1: o professor Ricardo nos indicou para realizar via rede polygon e na opensea mainnet, mas atualmente a mainnet da polygon não realiza a mintagem de NFTs de forma gratuita como era na época da gravação das aulas.
+
+## Resultado do desafio - parte 2
 
 Parte 2 - Utilizado a plataforma da Uptick para dar sequência ao curso, a mintagem não foi finalizada pois era necessário o uso de token Iris comprado ou enviado pelo professor, mas no forum do curso verifiquei que alguns alunos estavam aguardando o envio do token, então devido a estar chegando ao prazo final deixo a comprovação abaixo de que fui até na etapa e segui as instruções do professor.
 
