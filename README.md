@@ -44,7 +44,7 @@ O professor Ricardo deu instruções para pensarmos nos pontos principais para c
 
 Clique abaixo para acessar ao arquivo markdown que criei especial para a DAO.
 
-[Clique aqui](https://github.com/leopoldosilvajr/Token-ETH/tree/main/challenge)
+[Clique aqui](https://github.com/leopoldosilvajr/DIO-NFTs/blob/main/ABOUT-DAO.md)
 
 # Desafio 3
 # Crie o seu NFT de Pokémon com Blockchain
