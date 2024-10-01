@@ -77,4 +77,4 @@ Abaixo o nível do pokémon que aumentou após a batalha.
 
 ![Depois](https://github.com/leopoldosilvajr/DIO-NFTs/blob/main/images-pokemon/5%20nivel%20apos%20batalha%20realizada.png)
 
-Para verificar o restante das imagens capturadas durante a realização de desafio segue link a seguir. [Clique aqui](https://github.com/leopoldosilvajr/DIO-NFTs/images-pokemon)
+Para verificar o restante das imagens capturadas durante a realização de desafio segue link a seguir. [Clique aqui](https://github.com/leopoldosilvajr/DIO-NFTs/tree/main/images-pokemon)
