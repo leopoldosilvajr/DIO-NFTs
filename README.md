@@ -49,8 +49,6 @@ Clique abaixo para acessar ao arquivo markdown que criei especial para a DAO.
 # Desafio 3
 # Crie o seu NFT de Pokémon com Blockchain
 
-# CriandoNFTPokemon
-
 Desenvolvimento de Smart Contract para criação de NFTs de pokemon com sistema de batalhas, o código de contrato inteligente foi desenvolvido utilizando a linguagem de programação Solidity e o padrão de tokens ERC-721 com auxilio da biblioteca Open Zeppelin.
 
 Projeto desenvolvido durante BootCamp 'Binance - Blockchain Developer with Solidity' realizado pela DIO (https://www.dio.me/)
@@ -71,8 +69,12 @@ Projeto desenvolvido durante BootCamp 'Binance - Blockchain Developer with Solid
 
 ## Resultado do desafio
 
+Abaixo o nível do pokémon antes de realizar a batalha.\
+
+![Antes](https://github.com/leopoldosilvajr/DIO-NFTs/blob/main/images-pokemon/3%20Garchomp%20antes%20da%20batalha.png)
+
 Abaixo o nível do pokémon que aumentou após a batalha.
 
-![Garchomp](https://github.com/leopoldosilvajr/DIO-NFTs/blob/main/images-pokemon/5%20nivel%20apos%20batalha%20realizada.png)
+![Depois](https://github.com/leopoldosilvajr/DIO-NFTs/blob/main/images-pokemon/5%20nivel%20apos%20batalha%20realizada.png)
 
 Para verificar o restante das imagens capturadas durante a realização de desafio segue link a seguir. [Clique aqui](https://github.com/leopoldosilvajr/DIO-NFTs/images-pokemon)
