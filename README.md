@@ -34,23 +34,17 @@ Para verificar o restante das imagens capturadas durante a realização de desaf
 # Desafio 2
 # Criando uma Organização Autônoma Descentralizada nos Padrões Web3
 
-Utilizado plataforma da opensea e da Uptick para criação de NFTs para o curso da linguagem Solidity em parceria com a Binance da DIO.
+O professor Ricardo deu instruções para pensarmos nos pontos principais para criarmos nossa DAO.
 
 ## Ferramentas Utilizadas
 
-- Remix: Ethereum IDE Online
+- Visual Studio Code: para criar e enviar o arquivo Markdown com as informações da DAO.
 
-- Sepolia TestNet: Ethereum Test Net - opção de rede de teste
+## Resultado do desafio
 
-- MetaMask: Carteira de Criptomoedas para navegadores Web e celulares
+Clique abaixo para acessar ao arquivo markdown que criei especial para a DAO.
 
-## Comprovação do desafio
-
-Após rodar o código da IDE Remix e aprovar a criação do token na carteira Metamask, ele apareceu conforme abaixo:
-
-![Metamask](https://github.com/leopoldosilvajr/Token-ETH/blob/ab0835d733e2e5d43390273bdce8516a51f731c9/challenge/9%20Token%20sendo%20exibido%20na%20metamask.png)
-
-Para verificar o restante das imagens capturadas durante a realização de desafio segue link a seguir. [Clique aqui](https://github.com/leopoldosilvajr/Token-ETH/tree/main/challenge)
+[Clique aqui](https://github.com/leopoldosilvajr/Token-ETH/tree/main/challenge)
 
 # Desafio 3
 # Crie o seu NFT de Pokémon com Blockchain
@@ -65,7 +59,7 @@ Utilizado plataforma da opensea e da Uptick para criação de NFTs para o curso 
 
 - MetaMask: Carteira de Criptomoedas para navegadores Web e celulares
 
-## Comprovação do desafio
+## Resultado do desafio
 
 Após rodar o código da IDE Remix e aprovar a criação do token na carteira Metamask, ele apareceu conforme abaixo:
 
