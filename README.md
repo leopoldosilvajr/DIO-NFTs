@@ -73,6 +73,6 @@ Projeto desenvolvido durante BootCamp 'Binance - Blockchain Developer with Solid
 
 Abaixo o nível do pokémon que aumentou após a batalha.
 
-![Garchomp](https://github.com/leopoldosilvajr/Token-ETH/blob/ab0835d733e2e5d43390273bdce8516a51f731c9/challenge/9%20Token%20sendo%20exibido%20na%20metamask.png)
+![Garchomp](https://github.com/leopoldosilvajr/DIO-NFTs/blob/main/images-pokemon/5%20nivel%20apos%20batalha%20realizada.png)
 
 Para verificar o restante das imagens capturadas durante a realização de desafio segue link a seguir. [Clique aqui](https://github.com/leopoldosilvajr/DIO-NFTs/images-pokemon)
