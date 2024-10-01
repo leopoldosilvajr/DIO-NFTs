@@ -49,20 +49,30 @@ Clique abaixo para acessar ao arquivo markdown que criei especial para a DAO.
 # Desafio 3
 # Crie o seu NFT de Pokémon com Blockchain
 
-Utilizado plataforma da opensea e da Uptick para criação de NFTs para o curso da linguagem Solidity em parceria com a Binance da DIO.
+# CriandoNFTPokemon
+
+Desenvolvimento de Smart Contract para criação de NFTs de pokemon com sistema de batalhas, o código de contrato inteligente foi desenvolvido utilizando a linguagem de programação Solidity e o padrão de tokens ERC-721 com auxilio da biblioteca Open Zeppelin.
+
+Projeto desenvolvido durante BootCamp 'Binance - Blockchain Developer with Solidity' realizado pela DIO (https://www.dio.me/)
 
 ## Ferramentas Utilizadas
 
-- Remix: Ethereum IDE Online
+- Solidity: linguagem de desenvolvimento.
 
-- Sepolia TestNet: Ethereum Test Net - opção de rede de teste
+- Remix: Ethereum IDE para desenvolvimento Online.
 
-- MetaMask: Carteira de Criptomoedas para navegadores Web e celulares
+- Ganache: ambiente de blockchain.
+
+- MetaMask: Carteira de Criptomoedas para navegadores Web e celulares.
+
+- IPFS: plataforma para gerenciamento de arquivos.
+
+- Openzeppelin: framework.
 
 ## Resultado do desafio
 
-Após rodar o código da IDE Remix e aprovar a criação do token na carteira Metamask, ele apareceu conforme abaixo:
+Abaixo o nível do pokémon que aumentou após a batalha.
 
-![Metamask](https://github.com/leopoldosilvajr/Token-ETH/blob/ab0835d733e2e5d43390273bdce8516a51f731c9/challenge/9%20Token%20sendo%20exibido%20na%20metamask.png)
+![Garchomp](https://github.com/leopoldosilvajr/Token-ETH/blob/ab0835d733e2e5d43390273bdce8516a51f731c9/challenge/9%20Token%20sendo%20exibido%20na%20metamask.png)
 
-Para verificar o restante das imagens capturadas durante a realização de desafio segue link a seguir. [Clique aqui](https://github.com/leopoldosilvajr/Token-ETH/tree/main/challenge)
+Para verificar o restante das imagens capturadas durante a realização de desafio segue link a seguir. [Clique aqui](https://github.com/leopoldosilvajr/DIO-NFTs/images-pokemon)
